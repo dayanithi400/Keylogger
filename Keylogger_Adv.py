@@ -12,8 +12,8 @@ import threading
 text = ""
 
 # Hard code the values of your server and ip address here.
-ip_address = "109.74.200.23"
-port_number = "8080"
+ip_address = ".............."
+port_number = "......."
 # Time interval in seconds for code to execute.
 time_interval = 10
 
